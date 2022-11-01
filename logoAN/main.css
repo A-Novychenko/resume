@@ -1,0 +1,20 @@
+.logo {
+    /* font-family: 'Niconne', cursive; */
+    /* font-family: 'Petit Formal Script', cursive; */
+    font-family: 'Tillana', cursive;
+}
+
+.logofav {
+    font-family: 'Tillana', cursive;
+}
+
+.logofav {
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+
+    background-color: #003b57;
+
+    font-size: 500px;
+    color: #ffffff;
+}
